@@ -210,4 +210,3 @@ Author
 
 Aiden Vihaan
 
-Building scalable backend applications.
